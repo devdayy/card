@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(fakurian-design-CN2FEPXERRI-unsplash.jpg);
+    background-size: cover;
+    width: 100%;
+    opacity: 90%;
+
+}
+
+
+.box1 { 
+
+    background-color: white;
+    width: 900px;
+    height: 500px;
+    position: absolute;
+    left: 230px;
+    top: 210px;
+    border-radius: 10%;  
+}
+
+.box1 h2 {
+    font-family: "Lato";
+    letter-spacing: 3px;
+    position: absolute;
+    left: 55px;
+    top: 40px;
+}
+
+.box1 h1 {
+    font-family: "Lato";
+    position: absolute;
+    left: 40px;
+    top: 150px;
+    margin: 20px;
+    color: rgb(43, 43, 43);
+    
+}
+
+.box1 p {
+    font-family: "Lato";
+    position: absolute;
+    left: 40px;
+    top: 200px;
+    margin: 20px;
+    color: rgb(43, 43, 43);
+    letter-spacing: 2px;
+}
+
+.box1 a {
+    font-family: "Lato";
+    letter-spacing: 3px;
+    position: absolute;
+    left: 700px;
+    top: 40px;
+    text-decoration: none;
+    color: black;
+    font-size: small;
+    font-weight: bold;
+    
+}
+
+.submit{
+    font-family: "Lato";
+    position: absolute;
+    left: 35px;
+    top: 300px;
+    margin: 20px;
+    color: rgb(43, 43, 43);
+    letter-spacing: 2px;
+    border: none;
+    background-color: rgb(198, 131, 253);
+    width: 200px;
+    padding: 20px;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+}
+
+.box2 { 
+
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 530px;
+    top: 180px;
+    border-radius: 10%;  
+    background-image: url(fakurian-design-nY14Fs8pxT8-unsplash.jpg);
+    background-size: cover;
+    opacity: 70%;
+    box-shadow: 3px 2px black, rgb(97, 96, 96);
+}
+
+.box2 span{ 
+
+  color: white;
+  font-family: "Lato";
+  position: relative;
+  left: 30px;
+  top: 80px;
+  font-size: small;
+  font-weight: bold;
+}
+
+
+.mastercard img {
+    width: 50px;
+    position: absolute;
+    left: 760px;
+    top: 190px;
+}
+
